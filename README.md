@@ -24,8 +24,13 @@
 
 ## CI/CD
 ### What
+    CI/CD is the process of continous integration and continous delivery and continous deployment. This is the process where where we automate the development and deployement.
 ### How
+    We use Jenkins so that any time we make a push to the github it will be affected in the deployed application
 ### Benefits
+    * Allows to integrate small pieces of code which is inturn more manageable
+    * Faster release of applications because for the every sprint a smaller version of application is available
+    * Easy maintenance
 ## Jenkins
 ### What
 ### How
