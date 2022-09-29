@@ -33,8 +33,16 @@
     * Easy maintenance
 ## Jenkins
 ### What
+    Jenkins is a tool used to setup CI/CD using pipelines. With jenkins the code is pulled from a repository like github. Any push to the github repository runs the application with new changes.
+
 ### How
+    Created a pipeline to automate a node js application where the code is pulled from the git hub repo.
 ### Benefits
+    * It can be easily installed
+    * It can be used on different platforms
+    * It automates all integration work. 
+    * It helps in saving time and money over the project lifecycle
+    
 ## Provisioning
 ### What
 ### How
