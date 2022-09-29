@@ -4,7 +4,7 @@
     Cloud is a  massive network of computers owned by different providers like AWS
     Azure and GCP which we pay for and use to deploy our applications.
 ### How
-    Deployed a nodejs application with MongoDB on AWS. Currently  working on a React    application that should be deployed on AWS and to use AWS s3 bucket for storing  files.
+    Deployed a nodejs application with MongoDB on AWS. Currently  working on a React  application that should be deployed on AWS and to use AWS s3 bucket for storing  files.
 ### Benefits
     Cost is the massive benefit because we only pay for what we use. We dont have to   worry about set up cost. We have multiavailablity of resources that means data and   applications are available at all time with limited outages.If one server   goes down other is available.Integrations are much more easier in cloud  
 
@@ -18,7 +18,7 @@
 ### Benefits
     * Faster than traditional   
     * Continous delivery :   
-    * Cost effective : We can spin down an app if it is not more required which saves a   lot of money  
+    * Cost effective : We can spin down an app if it is not more required which saves a<br />   lot of money  
     * Efficiency and effectivenes -evrything should be easy to use.  
 
 
@@ -41,8 +41,7 @@
     * It can be easily installed
     * It can be used on different platforms
     * It automates all integration work. 
-    * It helps in saving time and money over the project lifecycle
-
+    * It helps in saving time and money over the project lifecycle.
 ## Provisioning
 ### What
 ### How
