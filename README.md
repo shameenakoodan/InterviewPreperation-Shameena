@@ -17,9 +17,9 @@
 ### What
     DevOPS is a combination of culture and a way of working. DevOPS is a model of   working 
     were development and operations teams merge and work together  where they   work on the
-     entire life cycle of the application starting from dev environment   setup,application
-      development,testing and deploying the applications.A devops   engineer typically 
-      automates a job.  
+    entire life cycle of the application starting from dev environment   setup,application
+    development,testing and deploying the applications.A devops   engineer typically 
+    automates a job.  
 
 ### How
     Currently working on a project to be deployed on cloud which should have a CI/CD pipeline 
@@ -35,7 +35,7 @@
 ## CI/CD
 ### What
     CI/CD is the process of continous integration and continous delivery and continous deployment.
-     This is the process where where we automate the development and deployment.
+    This is the process where where we automate the development and deployment.
 ### How
     We use Jenkins so that any time we make a push to the github it will be affected in the 
     deployed application
@@ -67,3 +67,5 @@
     Created a environemt for mongo and used bash to provision it. And these both are linked
 
 ### Benefits
+    * The problem of it works in your system and not mine is solved because applications
+        are run on VM's
