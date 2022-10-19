@@ -1,3 +1,18 @@
+# Tools
+    Terminal
+    VsCode
+    MySQL Workbench
+    Postman
+    Trello
+    Github
+
+# Versioning
+    Github
+
+# Front End
+    Html
+    CSS
+    Javascript
 # Cloud 
 
 ### What
@@ -69,3 +84,21 @@
 ### Benefits
     * The problem of it works in your system and not mine is solved because applications
         are run on VM's
+
+##  Networking
+### What  
+### How
+### Benefits
+##  Principle of Least Privilege
+### What  
+### How
+### Benefits
+##  IAC
+### What  
+### How
+### Benefits
+##  Packer
+### What  
+### How
+### Benefits
+
