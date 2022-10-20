@@ -19,21 +19,24 @@
 ## CSS
 ### <em>What</em>
 - Cascading Style Sheet is a popular styling language that describes how 
-    HTML element are displayed on the screen. 
+  HTML element are displayed on the screen. 
+
 ### <em>How</em>
-- After creating the HTML webpages CSS was used to style each element in the webpage. All the projects with HTML and react as front end was styled with CSS
+- After creating the HTML webpages CSS was used to style each element in the webpage.
+- All the projects with HTML and react as front end was styled with CSS
       
 ### <em>Benefits</em>
 - Used to define styles for your webpages which can vary from styling the simple text to styling 
-    different images on the screen
+  different images on the screen
 - CSS styles are stored in files with .css extensions and are imported to the html file.
 - Same style can be applied to multiple tags so that we dont have to write seperate style tags for 
-    each element in the web page.
+  each element in the web page.
 
 ##  Javascript
 ### <em>What</em>
 - Javascript is programming language that can be used for adding interactivity and behaviours to a 
-    webpage
+  webpage
+
 ### <em>How</em>
 - Created a browser based [Calculator](https://shameenakoodan.github.io/Calculator/).
 - Built a calculator web app using HTML, SCSS, and JS.This app can accept inputs, do 
@@ -47,14 +50,28 @@
 - UI is designed using SASS and BEM
 
 ### <em>Benefits</em>
-    - Javacsript can be used for Front-end development i.e for the the UI's or the client side code.
-    - It can also be used for the Back-end devlopment i.e for the Servers,API's or the server side code.
-    - It can be used to built websites, Mobile Apps, Games, Command-line tools and Netwroking
-      Applications
+- Javacsript can be used for Front-end development i.e for the the UI's or the client side code.
+- It can also be used for the Back-end devlopment i.e for the Servers,API's or the server side code.
+- It can be used to built websites, Mobile Apps, Games, Command-line tools and Netwroking
+    Applications
+
 ##  SCSS
 ### <em>What</em>
+- Syntactically Awesome Style Sheet is the superset of CSS. 
+- SCSS is the more advanced version of CSS. 
+- SCSS have file extension of .scss.
+- SASS adds the feature of @import which lets you import your customized SCSS files
+
 ### <em>How</em>
+- Worked on several applications that was styled using SASS instead of pure CSS.
+
 ### <em>Benefits</em>
+- SCSS contains all the features of CSS and contains more features that are not present in CSS which 
+  makes it a good choice for developers to use it.
+- SCSS is full of advanced features.
+- SCSS offers variables, you can shorten your code by using variables. It is a great advantage over conventional CSS.
+- SASS allows us to use nested syntax
+
 ##  FlexBox
 ### <em>What</em>
 ### <em>How</em>
