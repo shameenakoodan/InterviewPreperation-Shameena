@@ -36,6 +36,7 @@
       webpage
 ### <em>How</em>
     Created a browser based [calculator](https://shameenakoodan.github.io/Calculator/)
+    <a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
 ### <em>Benefits</em>
     - Javacsript can be used for Front-end development i.e for the the UI's or the client side code.
     - It can also be used for the Back-end devlopment i.e for the Servers,API's or the server side code.
