@@ -35,8 +35,17 @@
     - Javascript is programming language that can be used for adding interactivity and behaviours to a 
       webpage
 ### <em>How</em>
-    Created a browser based [calculator](https://shameenakoodan.github.io/Calculator/)
-    <a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
+- Created a browser based [Calculator](https://shameenakoodan.github.io/Calculator/). 
+- Built a calculator web app using HTML, SCSS, and JS.This app can accept inputs, do 
+  some calculations and give you the correct output. 
+- Inputs will be generated from users clicking on the calculator buttons.
+- Calculator is deployed using GitHub Pages
+- A public GitHub repository is made for the codebase
+-  A README.md with a short intro to the project
+- It is responsive and works on different screen widths
+- Accept multiple inputs, perform an operation and show the output
+- UI is designed using SASS and BEM
+
 ### <em>Benefits</em>
     - Javacsript can be used for Front-end development i.e for the the UI's or the client side code.
     - It can also be used for the Back-end devlopment i.e for the Servers,API's or the server side code.
