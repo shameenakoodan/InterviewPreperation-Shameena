@@ -3,7 +3,7 @@
 # Front End
 # Nology Cloud engineering course
 ## HTML
-### <em>What</em>
+<em>What</em>
 - Html stands for HyperText Markup Language. 
 - It is a language of the World Wide Web.
 - It is a standard text formatting language which is used to create and display pages on the Web.
