@@ -5,16 +5,91 @@
     Postman
     Trello
     Github
-
+    Jenkins
+    VMware Fusion
 # Versioning
     Github
 
 # Front End
-    Html
-    CSS
-    Javascript
-# Cloud 
+    * Html
+        Html stands for HyperText Markup Language. It is a language of the World Wide Web.It is a standard text formatting language which is used to create and display pages on the Web. It can turn text in to images, tables and links
+    * CSS
 
+    Javascript
+    SCSS
+    FlexBox
+    Grid
+    Media query
+    React
+    Class
+    OOP
+    Webhook
+    React Router
+    React State
+# Testing
+    Unit Testing - Jest
+    Mocha / Chai testing
+    TDD
+    npm
+# Application tier
+    Python
+    Nodejs / Express
+    CORS
+# Database 
+    SQL & NoSQL
+    MySQL
+    Mongodb
+    Queries
+    ORM
+    Mongoose
+    Sequelize
+# DevOps
+    CI/CD pipeline
+    Docker
+    Terraform
+    Containerization
+    Packer
+    VM
+    Vagrant
+    Provisioning
+    UbuntuARM and Bionic
+# Cloud 
+    Cloud computing is the on-demand delivery of compute power, database storage, applications, and other IT resources through a cloud services platform via the Internet with pay as you go pricing
+## Benefits
+    Trade Capital Expense for Variable Expense
+    Benefit from massive economies of scale
+    Stop guessing capacity
+    Increase speed and agility
+    Stop spending money on mainating data centers
+    Go global within minutes
+    Elasticity
+    Reliability
+    Agility
+
+    AWS
+    GCP
+    S3 Bucket
+    Compute Engine
+    AppEngine
+    IAS
+    PAS
+    Amazon EC2
+# Networking
+    VPC
+    Subnet
+    IP
+    Route Table
+    Gateway
+# Other
+    Linux
+    Ubuntu
+    Json
+    CSV
+# Agile
+    Sprint
+    Scrum
+    Trello
+      
 ### What
     Cloud is a  massive network of computers owned by different providers like AWS
     Azure and GCP which we pay for and use to deploy our applications.
