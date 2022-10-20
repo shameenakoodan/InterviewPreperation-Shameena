@@ -35,7 +35,7 @@
     - Javascript is programming language that can be used for adding interactivity and behaviours to a 
       webpage
 ### <em>How</em>
-"https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
+ <a href="https://www.markdownguide.org" target="_blank">Learn Markdown!</a>
 - Created a browser based <a href="https://shameenakoodan.github.io/Calculator/" target="_blank">Calculator.</a>
 - Created a browser based [Calculator](https://shameenakoodan.github.io/Calculator/).
 - Built a calculator web app using HTML, SCSS, and JS.This app can accept inputs, do 
