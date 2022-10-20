@@ -4,10 +4,10 @@
 # Nology Cloud engineering course
 ## HTML
 ### <em>What</em>
-- Html stands for HyperText Markup Language. 
-- It is a language of the World Wide Web.
-- It is a standard text formatting language which is used to create and display pages on the Web.
-- It can turn text in to images, tables and links
+    - Html stands for HyperText Markup Language. 
+    - It is a language of the World Wide Web.
+    - It is a standard text formatting language which is used to create and display pages on the Web.
+    - It can turn text in to images, tables and links
 ### How
 - Used HTML to built pages for projects as part of the training.
 - Used HTML tags to built front end of react applications.
