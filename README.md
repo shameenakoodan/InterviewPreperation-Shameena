@@ -3,39 +3,39 @@
 # Front End
 ## HTML
 ### <em>What</em>
-    - Html stands for HyperText Markup Language. 
-    - It is a language of the World Wide Web.
-    - It is a standard text formatting language which is used to create and display pages on the Web.
-    - It can turn text in to images, tables and links
+- Html stands for HyperText Markup Language. 
+- It is a language of the World Wide Web.
+- It is a standard text formatting language which is used to create and display pages on the Web.
+- It can turn text in to images, tables and links
 
 ### <em>How</em>
-    - Used HTML to built pages for projects as part of the training.
-    - Used HTML tags to built front end of react applications.
+- Used HTML to built pages for projects as part of the training.
+- Used HTML tags to built front end of react applications.
 
 ### <em>Benefits</em>
-    - Widely used Markup Language used to built the structure of the website
-    - It is supported in easy to learn and it easily integrates with other programming languages
+- Widely used Markup Language used to built the structure of the website
+- It is supported in easy to learn and it easily integrates with other programming languages
     
 ## CSS
 ### <em>What</em>
-    - Cascading Style Sheet is a popular styling language that describes how 
-      HTML element are displayed on the screen. 
+- Cascading Style Sheet is a popular styling language that describes how 
+    HTML element are displayed on the screen. 
 ### <em>How</em>
-    - After creating the HTML webpages CSS was used to style each element in the webpage. All the projects with HTML and react as front end was styled with CSS
+- After creating the HTML webpages CSS was used to style each element in the webpage. All the projects with HTML and react as front end was styled with CSS
       
 ### <em>Benefits</em>
-    - Used to define styles for your webpages which can vary from styling the simple text to styling 
-      different images on the screen
-    - CSS styles are stored in files with .css extensions and are imported to the html file.
-    - Same style can be applied to multiple tags so that we dont have to write seperate style tags for 
-      each element in the web page.
+- Used to define styles for your webpages which can vary from styling the simple text to styling 
+    different images on the screen
+- CSS styles are stored in files with .css extensions and are imported to the html file.
+- Same style can be applied to multiple tags so that we dont have to write seperate style tags for 
+    each element in the web page.
 
 ##  Javascript
 ### <em>What</em>
-    - Javascript is programming language that can be used for adding interactivity and behaviours to a 
-      webpage
+- Javascript is programming language that can be used for adding interactivity and behaviours to a 
+    webpage
 ### <em>How</em>
-   - Created a browser based [Calculator](https://shameenakoodan.github.io/Calculator/).
+- Created a browser based [Calculator](https://shameenakoodan.github.io/Calculator/).
 - Built a calculator web app using HTML, SCSS, and JS.This app can accept inputs, do 
   some calculations and give you the correct output. 
 - Inputs will be generated from users clicking on the calculator buttons.
