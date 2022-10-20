@@ -101,8 +101,21 @@
 
 ##  Grid
 ### <em>What</em>
+- The CSS Grid Layout Module offers a grid-based layout system, with rows and columns, 
+  making it easier to design web pages without having to use floats and positioning.
+
 ### <em>How</em>
+- Created a [Calculator](https://shameenakoodan.github.io/Calculator/) and 
+  [HangMan](https://shameenakoodan.github.io/HANGMAN/) that uses flex box and display the components
+
 ### <em>Benefits</em>
+- Rather than creating extra HTML elements to contain your grid, columns, and rows, your grid tracks are 
+  created within your stylesheet.
+- As CSS Grid is native, there is no need to include large libraries like Bootstrap in your projects.
+- A grid is two-dimensional and respects both rows and columns. If an element is too big for its cell
+  ,the row and/or column will grow accordingly. A grid is ideal for page and form layout.
+- It provides Responsiveness based on screen size.
+
 ## Media query
 ### <em>What</em>
 ### <em>How</em>
