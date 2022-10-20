@@ -1,20 +1,20 @@
-# Tools
-    Terminal
-    VsCode
-    MySQL Workbench
-    Postman
-    Trello
-    Github
-    Jenkins
-    VMware Fusion
-# Versioning
-    Github
+
 
 # Front End
-#### Html
-    Html stands for HyperText Markup Language. It is a language of the World Wide Web.
-    It is a standard text formatting language which is used to create and display pages
-    on the Web. It can turn text in to images, tables and links
+# Nology Cloud engineering course
+## HTML
+### <em>What</em>
+- Html stands for HyperText Markup Language. 
+- It is a language of the World Wide Web.
+- It is a standard text formatting language which is used to create and display pages on the Web.
+- It can turn text in to images, tables and links
+### How
+- Used HTML to built pages for projects as part of the training.
+- Used HTML tags to built front end of react applications.
+### Benefits
+    Widely used Markup Language used to built the structure of the website
+    It is supported in easy to learn and it easily integrates with other programming languages
+    
 #### CSS
 
     Javascript
@@ -28,6 +28,18 @@
     Webhook
     React Router
     React State
+# Tools
+    Terminal
+
+    VsCode
+    MySQL Workbench
+    Postman
+    Trello
+    Github
+    Jenkins
+    VMware Fusion
+# Versioning
+    Github
 # Testing
     Unit Testing - Jest
     Mocha / Chai testing
@@ -179,3 +191,7 @@
 ### How
 ### Benefits
 
+
+### What
+### How
+### Benefits
