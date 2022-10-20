@@ -38,7 +38,8 @@
   webpage
 
 ### <em>How</em>
-- Created a browser based [Calculator](https://shameenakoodan.github.io/Calculator/).
+  [Calculator](https://shameenakoodan.github.io/Calculator/)
+- Created a browser based Calculator.
 - Built a calculator web app using HTML, SCSS, and JS.This app can accept inputs, do 
   some calculations and give you the correct output. 
 - Inputs will be generated from users clicking on the calculator buttons.
@@ -48,6 +49,12 @@
 - It is responsive and works on different screen widths
 - Accept multiple inputs, perform an operation and show the output
 - UI is designed using SASS and BEM
+  
+[HangMan](https://shameenakoodan.github.io/HANGMAN/)
+- Created a full functioning browser based game using HTML, CSS/SCSS and JavaScript
+- This single player game gives the user the option to select from different themes.
+- Based on the theme a word with few clues is displayed. User have 7 chances to guess 
+  the missing letters
 
 ### <em>Benefits</em>
 - Javacsript can be used for Front-end development i.e for the the UI's or the client side code.
@@ -69,13 +76,29 @@
 - SCSS contains all the features of CSS and contains more features that are not present in CSS which 
   makes it a good choice for developers to use it.
 - SCSS is full of advanced features.
-- SCSS offers variables, you can shorten your code by using variables. It is a great advantage over conventional CSS.
+- SCSS offers variables, you can shorten your code by using variables. It is a great advantage over 
+  conventional CSS.
 - SASS allows us to use nested syntax
 
 ##  FlexBox
 ### <em>What</em>
+- Flex Box is a layput module which makes it easier to design flexible layout layout structure
+  without using float or positioning.
+- Flexbox is a one-dimensional layout method for arranging items in rows or columns. 
+- Items flex (expand) to fill additional space or shrink to fit into smaller spaces.
+
 ### <em>How</em>
+- Created a [Calculator](https://shameenakoodan.github.io/Calculator/) and 
+  [HangMan](https://shameenakoodan.github.io/HANGMAN/) that uses flex box and display the components
+
 ### <em>Benefits</em>
+- Positioning child elements becomes easier with flexbox.
+- Flexbox is responsive and mobile-friendly.
+- We can easily change the order of elements on our webpage without even making changes in HTML.
+- Flexbox has a list of important properties that are used to make a flexible container. 
+  They are flex-direction, flex-wrap, flex-flow, justify-content, align-items, align-content.
+
+
 ##  Grid
 ### <em>What</em>
 ### <em>How</em>
