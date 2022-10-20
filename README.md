@@ -1,7 +1,6 @@
 
-
+# <center>Nology Cloud engineering course</center>
 # Front End
-# Nology Cloud engineering course
 ## HTML
 ### <em>What</em>
     - Html stands for HyperText Markup Language. 
@@ -17,18 +16,67 @@
     - Widely used Markup Language used to built the structure of the website
     - It is supported in easy to learn and it easily integrates with other programming languages
     
-#### CSS
+## CSS
+### <em>What</em>
+    - Cascading Style Sheet is a popular styling language that describes how 
+      HTML element are displayed on the screen. 
+### <em>How</em>
+    - After creating the HTML webpages CSS was used to style each element in the webpage. All the projects with HTML and react as front end was styled with CSS
+      
+### <em>Benefits</em>
+    - Used to define styles for your webpages which can vary from styling the simple text to styling 
+      different images on the screen
+    - CSS styles are stored in files with .css extensions and are imported to the html file.
+    - Same style can be applied to multiple tags so that we dont have to write seperate style tags for 
+      each element in the web page.
 
-    Javascript
-    SCSS
-    FlexBox
-    Grid
-    Media query
-    React
-    Class
-    OOP
-    Webhook
+##  Javascript
+### <em>What</em>
+    - Javascript is programming language that can be used for adding interactivity and behaviours to a 
+      webpage
+### <em>How</em>
+    Created a browser based [calculator](https://shameenakoodan.github.io/Calculator/)
+### <em>Benefits</em>
+    - Javacsript can be used for Front-end development i.e for the the UI's or the client side code.
+    - It can also be used for the Back-end devlopment i.e for the Servers,API's or the server side code.
+    - It can be used to built websites, Mobile Apps, Games, Command-line tools and Netwroking
+      Applications
+##  SCSS
+### <em>What</em>
+### <em>How</em>
+### <em>Benefits</em>
+##  FlexBox
+### <em>What</em>
+### <em>How</em>
+### <em>Benefits</em>
+##  Grid
+### <em>What</em>
+### <em>How</em>
+### <em>Benefits</em>
+## Media query
+### <em>What</em>
+### <em>How</em>
+### <em>Benefits</em>
+## React
+### <em>What</em>
+### <em>How</em>
+### <em>Benefits</em>
+## Class
+### <em>What</em>
+### <em>How</em>
+### <em>Benefits</em>
+## OOP
+### <em>What</em>
+### <em>How</em>
+### <em>Benefits</em>
+##    Webhook
+### <em>What</em>
+### <em>How</em>
+### <em>Benefits</em>
     React Router
+### <em>What</em>
+### <em>How</em>
+### <em>Benefits</em>
     React State
 # Tools
     Terminal
@@ -50,6 +98,8 @@
 # Application tier
     Python
     Nodejs / Express
+    Node, a backend JS engine uses v8 to execute JS. This enables JS to be run
+outside of a browser and in a Node environment.
     CORS
 # Database 
     SQL & NoSQL
