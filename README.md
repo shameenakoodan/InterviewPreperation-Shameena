@@ -214,42 +214,44 @@ on the screen.
 - Efficiency and effectivenes -evrything should be easy to use.
   
 ## CI/CD
-### What
-    CI/CD is the process of continous integration and continous delivery and continous deployment.
-    This is the process where where we automate the development and deployment.
-### How
-    We use Jenkins so that any time we make a push to the github it will be affected in the 
-    deployed application
-### Benefits
-    * Allows to integrate small pieces of code which is inturn more manageable
-    * Faster release of applications because for the every sprint a smaller version of 
-        application is available
-    * Easy maintenance
+### <em>What</em>
+- CI/CD is the process of continous integration and continous delivery and continous deployment.
+- This is the process where where we automate the development and deployment.
+
+### <em>How</em>
+- We use Jenkins so that any time we make a push to the github it will be affected in the deployed application
+
+### <em>Benefits</em>
+- Allows to integrate small pieces of code which is inturn more manageable
+- Faster release of applications because for the every sprint a smaller version of application is available
+- Easy maintenance
+
 ## Jenkins
-### What
-    Jenkins is a tool used to setup CI/CD using pipelines. With jenkins the code is pulled from a 
-    repository like github. Any push to the github repository runs the application with new changes.
+### <em>What</em>
+- Jenkins is a tool used to setup CI/CD using pipelines. 
+- With jenkins the code is pulled from a repository like github. 
+- Any push to the github repository runs the application with new changes.
 
-### How
-    Created a pipeline to automate a node js application where the code is pulled from the git 
-    hub repo.
-### Benefits
-    * It can be easily installed
-    * It can be used on different platforms
-    * It automates all integration work. 
-    * It helps in saving time and money over the project lifecycle.
+### <em>How</em>
+- Created a pipeline to automate a node js application where the code is pulled from the git hub repo.
+
+### <em>Benefits</em>
+- It can be easily installed
+- It can be used on different platforms
+- It automates all integration work. 
+- It helps in saving time and money over the project lifecycle.
+
 ## Provisioning
-### What
-    Provisioning allows to automatically install software and its dependencies in a virtual environment
-     like virtual box or vmware
-### How
-    We have a node application that requires a mongodb connection.
-    Created an application environment with node in it and used bash to provision it
-    Created a environemt for mongo and used bash to provision it. And these both are linked
+### <em>What</em>
+- Provisioning allows to automatically install software and its dependencies in a virtual environment
+  like virtuasl box or vmware
+### <em>How</em>
+- We have a node application that requires a mongodb connection.
+- Created an application environment with node in it and used bash to provision it
+- Created a environemt for mongo and used bash to provision it. And these both are linked
 
-### Benefits
-    * The problem of it works in your system and not mine is solved because applications
-        are run on VM's
+### <em>Benefits</em>
+- The problem of it works in your system and not mine is solved because applications are run on VM's
 
 
 ## OOP
