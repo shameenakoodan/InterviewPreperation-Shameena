@@ -70,6 +70,7 @@
 - SASS adds the feature of @import which lets you import your customized SCSS files
 
 ### <em>How</em>
+- Demonstrated SASS BEMm knowledge with the following : [SASS-BEM](https://shameenakoodan.github.io/SASS-BEM-Challenge/)
 - Worked on several applications that was styled using SASS instead of pure CSS.
 
 ### <em>Benefits</em>
@@ -88,8 +89,12 @@
 - Items flex (expand) to fill additional space or shrink to fit into smaller spaces.
 
 ### <em>How</em>
+- Demonstrated the knowledge of flex blox with the following [Flex1](https://shameenakoodan.github.io/flexbox-challenge2/)
+- [Flex2](https://shameenakoodan.github.io/flexbox-challenge/)
 - Created a [Calculator](https://shameenakoodan.github.io/Calculator/) and 
   [HangMan](https://shameenakoodan.github.io/HANGMAN/) that uses flex box and display the components
+
+
 
 ### <em>Benefits</em>
 - Positioning child elements becomes easier with flexbox.
@@ -160,10 +165,93 @@
 - It is a library so provides flexibilty when creating applications
 - It will only change individual elements rather than reloading the whole page
 
-## Class
+## React Testing Library
 ### <em>What</em>
+- is a library used for testing React applications.
+
 ### <em>How</em>
+- Tested react application to check whether the required components are rendered 
+on the screen.
+- Tested for error messages and success messgaes
+
 ### <em>Benefits</em>
+- It focuses on testing components from the end-user's experience rather than 
+  testing the implentation and logic of the underlying React components.
+
+## Cloud 
+### <em>What</em>
+- Cloud is a  massive network of computers owned by different providers like AWS
+  Azure and GCP which we pay for and use to deploy our applications.
+
+### <em>How</em>
+- Deployed a nodejs application with MongoDB on AWS. Currently  working on a React
+  application that should be deployed on AWS and to use AWS s3 bucket for storing
+  files.
+
+### <em>Benefits</em>
+- Cost is the massive benefit because we only pay for what we use. We dont have to   
+  worry about set up cost. 
+- We have multiavailablity of resources that means data and applications 
+  are available at all time with limited outages.If one server 
+  goes down other is available.Integrations are much more easier in cloud
+
+## DevOPS
+### <em>What</em>
+- DevOPS is a combination of culture and a way of working. DevOPS is a model of
+  working were development and operations teams merge and work together  where they 
+  work on the entire life cycle of the application starting from dev environmentsetup,
+  application development,testing and deploying the applications.A devops engineer 
+  typically automates a job.  
+
+### <em>How</em>
+- Worked on a full stack application that is  deployed on cloud which  have a CI/CD pipeline 
+  to automate the deployment  
+
+### <em>Benefits</em>
+- Faster than traditional   
+- Continous delivery  
+- Cost effective : We can spin down an app if it is not more required which saves a lot of money  
+- Efficiency and effectivenes -evrything should be easy to use.
+  
+## CI/CD
+### What
+    CI/CD is the process of continous integration and continous delivery and continous deployment.
+    This is the process where where we automate the development and deployment.
+### How
+    We use Jenkins so that any time we make a push to the github it will be affected in the 
+    deployed application
+### Benefits
+    * Allows to integrate small pieces of code which is inturn more manageable
+    * Faster release of applications because for the every sprint a smaller version of 
+        application is available
+    * Easy maintenance
+## Jenkins
+### What
+    Jenkins is a tool used to setup CI/CD using pipelines. With jenkins the code is pulled from a 
+    repository like github. Any push to the github repository runs the application with new changes.
+
+### How
+    Created a pipeline to automate a node js application where the code is pulled from the git 
+    hub repo.
+### Benefits
+    * It can be easily installed
+    * It can be used on different platforms
+    * It automates all integration work. 
+    * It helps in saving time and money over the project lifecycle.
+## Provisioning
+### What
+    Provisioning allows to automatically install software and its dependencies in a virtual environment
+     like virtual box or vmware
+### How
+    We have a node application that requires a mongodb connection.
+    Created an application environment with node in it and used bash to provision it
+    Created a environemt for mongo and used bash to provision it. And these both are linked
+
+### Benefits
+    * The problem of it works in your system and not mine is solved because applications
+        are run on VM's
+
+
 ## OOP
 ### <em>What</em>
 ### <em>How</em>
@@ -218,18 +306,6 @@ outside of a browser and in a Node environment.
     Vagrant
     Provisioning
     UbuntuARM and Bionic
-# Cloud 
-    Cloud computing is the on-demand delivery of compute power, database storage, applications, and other IT resources through a cloud services platform via the Internet with pay as you go pricing
-## Benefits
-    Trade Capital Expense for Variable Expense
-    Benefit from massive economies of scale
-    Stop guessing capacity
-    Increase speed and agility
-    Stop spending money on mainating data centers
-    Go global within minutes
-    Elasticity
-    Reliability
-    Agility
 
     AWS
     GCP
@@ -255,75 +331,11 @@ outside of a browser and in a Node environment.
     Scrum
     Trello
       
-### What
-    Cloud is a  massive network of computers owned by different providers like AWS
-    Azure and GCP which we pay for and use to deploy our applications.
-### How
-    Deployed a nodejs application with MongoDB on AWS. Currently  working on a React  
-    application that should be deployed on AWS and to use AWS s3 bucket for storing  files.
-### Benefits
-    Cost is the massive benefit because we only pay for what we use. We dont have to   
-    worry about set up cost. We have multiavailablity of resources that means data and   
-    applications are available at all time with limited outages.If one server   
-    goes down other is available.Integrations are much more easier in cloud  
+  
 
-# DevOPS
-
-### What
-    DevOPS is a combination of culture and a way of working. DevOPS is a model of   working 
-    were development and operations teams merge and work together  where they   work on the
-    entire life cycle of the application starting from dev environment   setup,application
-    development,testing and deploying the applications.A devops   engineer typically 
-    automates a job.  
-
-### How
-    Currently working on a project to be deployed on cloud which should have a CI/CD pipeline 
-    to automate the deployment  
-### Benefits
-    * Faster than traditional   
-    * Continous delivery :   
-    * Cost effective : We can spin down an app if it is not more required which saves a   
-        lot of money  
-    * Efficiency and effectivenes -evrything should be easy to use.  
+  
 
 
-## CI/CD
-### What
-    CI/CD is the process of continous integration and continous delivery and continous deployment.
-    This is the process where where we automate the development and deployment.
-### How
-    We use Jenkins so that any time we make a push to the github it will be affected in the 
-    deployed application
-### Benefits
-    * Allows to integrate small pieces of code which is inturn more manageable
-    * Faster release of applications because for the every sprint a smaller version of 
-        application is available
-    * Easy maintenance
-## Jenkins
-### What
-    Jenkins is a tool used to setup CI/CD using pipelines. With jenkins the code is pulled from a 
-    repository like github. Any push to the github repository runs the application with new changes.
-
-### How
-    Created a pipeline to automate a node js application where the code is pulled from the git 
-    hub repo.
-### Benefits
-    * It can be easily installed
-    * It can be used on different platforms
-    * It automates all integration work. 
-    * It helps in saving time and money over the project lifecycle.
-## Provisioning
-### What
-    Provisioning allows to automatically install software and its dependencies in a virtual environment
-     like virtual box or vmware
-### How
-    We have a node application that requires a mongodb connection.
-    Created an application environment with node in it and used bash to provision it
-    Created a environemt for mongo and used bash to provision it. And these both are linked
-
-### Benefits
-    * The problem of it works in your system and not mine is solved because applications
-        are run on VM's
 
 ##  Networking
 ### What  
