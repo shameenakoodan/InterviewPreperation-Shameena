@@ -118,12 +118,43 @@
 
 ## Media query
 ### <em>What</em>
+- The @media for CSS is used to make different styles for different screen sizes
+
 ### <em>How</em>
+- Built applications that have a mobile view and desktop view for different screen sizes
+
 ### <em>Benefits</em>
+- Media queries allow you to vary viewport dimensions based on screen size
+- Helps to set different style properties for different devices, including color schemes, font styles,
+  motion settings and animations, borders and spacing, and almost any other CSS property.
+
 ## React
 ### <em>What</em>
+- React is a Javascript libraray for building User Interfaces
+- It provides a virtual DOM
+
 ### <em>How</em>
+- Built a ticket tracker Application with React as Front End
+- Built a Weather application with react as Front End, NodeJs at the Back End and
+  MySQL for persistant data storage
+- Built a Todo list application with React
+- Built a full stack application that displays current and previous weather for
+  a location of the user's choice. 
+- React front end contains a search box that allows the user to search for a 
+  location and display the current weather for that location.
+- React application makes a get request to the endpoint openweathermap API 
+- Created an API with Node/Express that takes the current weather and 
+  stores it in a MySQL database using the Sequelize ORM
+- When a user searches for a location that has been previously searched the 
+  React frontend displays the weather for that location at a historic time/date. 
+- Styled using SASS
+
 ### <em>Benefits</em>
+- It re-renders components only when needed
+- Provides a file structure to build large applications
+- It is a library so provides flexibilty when creating applications
+- It will only change individual elements rather than reloading the whole page
+
 ## Class
 ### <em>What</em>
 ### <em>How</em>
