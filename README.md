@@ -135,19 +135,24 @@
 
 ### <em>How</em>
 - Built a ticket tracker Application with React as Front End
-- Built a Weather application with react as Front End, NodeJs at the Back End and
-  MySQL for persistant data storage
 - Built a Todo list application with React
 - Built a full stack application that displays current and previous weather for
   a location of the user's choice. 
-- React front end contains a search box that allows the user to search for a 
-  location and display the current weather for that location.
-- React application makes a get request to the endpoint openweathermap API 
-- Created an API with Node/Express that takes the current weather and 
-  stores it in a MySQL database using the Sequelize ORM
-- When a user searches for a location that has been previously searched the 
-  React frontend displays the weather for that location at a historic time/date. 
-- Styled using SASS
+  - React front end contains a search box that allows the user to search for a 
+    location and display the current weather for that location.
+  - React application makes a get request to the endpoint openweathermap API 
+  - Created an API with Node/Express that takes the current weather and 
+    stores it in a MySQL database using the Sequelize ORM
+  - When a user searches for a location that has been previously searched the 
+    React frontend displays the weather for that location at a historic time/date. 
+  - Styled using SASS
+- Built a website using React based on the Punk API
+  - Render individual cards based on the information obtained from the API
+  - Search functionality based on name and the page content is updated as you 
+    type  each letter in the box.
+  - Filter the contents based on different conditions
+  - Send information to the MySQL database from the React front end to via Node API
+  - Used RTL for unit testing
 
 ### <em>Benefits</em>
 - It re-renders components only when needed
