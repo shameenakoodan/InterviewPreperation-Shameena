@@ -1,5 +1,5 @@
 
-# <center>Nology Cloud engineering course</center>
+# <p align="center">Nology Cloud engineering course</p>
 # Front End
 ## HTML
 ### <em>What</em>
