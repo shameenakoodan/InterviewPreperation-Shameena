@@ -286,9 +286,22 @@ on the screen.
 - Code Reuse
 - Application Maintainability
 
-# Versioning
-- Github is used for version control
+## Versioning
+### <em>What</em>
+- When developing an application we might have to save multiple versions of the code. 
+  When storing it in local storage we  end up with tons of files for a simple application.
+  With online versioning tools like Github we store files online and we can easily collaborate 
+  with other developers by sharing code in Github.
 
+### <em>How</em>
+- Worked on a collaborative project. The entire codebase is on github and worked on feature branches 
+  for every feature. Later the entire features were merged .
+- Created a repository for every project and shared the link to the repo with the trainers for review
+- Deployed HTML and javascript projects on github pages
+ 
+### <em>Benefits</em>
+- Easy to keep track of collaborative and personal projects
+- We can review previous code and share work with others
 
 
 # DevOps
