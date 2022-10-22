@@ -298,109 +298,18 @@ on the screen.
   for every feature. Later the entire features were merged .
 - Created a repository for every project and shared the link to the repo with the trainers for review
 - Deployed HTML and javascript projects on github pages
- 
+
 ### <em>Benefits</em>
 - Easy to keep track of collaborative and personal projects
 - We can review previous code and share work with others
 
 
-# DevOps
-    Docker
-    Terraform
-    Containerization
-    Packer
-    VM
-    Vagrant
-    Provisioning
-    UbuntuARM and Bionic
-
-    AWS
-    GCP
-    S3 Bucket
-    Compute Engine
-    AppEngine
-    IAS
-    PAS
-    Amazon EC2
-# Networking
-    VPC
-    Subnet
-    IP
-    Route Table
-    Gateway
-# Other
-    Linux
-    Ubuntu
-    Json
-    CSV
-# Agile
-    Sprint
-    Scrum
-    Trello
-      
-  
-
-  
-
-
-
-##  Networking
-### What  
-### How
-### Benefits
-##  Principle of Least Privilege
-### What  
-### How
-### Benefits
-##  IAC
-### What  
-### How
-### Benefits
-##  Packer
-### What  
-### How
-### Benefits
-
-
-### What
-### How
-### Benefits
-
-
-
-
-## OOP
+## Docker
 ### <em>What</em>
-### <em>How</em>
-### <em>Benefits</em>
-##    Webhook
-### <em>What</em>
-### <em>How</em>
-### <em>Benefits</em>
-    React Router
-### <em>What</em>
-### <em>How</em>
-### <em>Benefits</em>
-    React State
+- Docker is a software platform that allows you to build, test, and deploy applications quickly. 
+- Docker packages software into standardized units called containers that have everything the software needs to 
+  run including libraries, system tools, code, and runtime. 
 
-# Tools
-    Terminal
-
-    VsCode
-    MySQL Workbench
-    Postman
-    Trello
-    Github
-    VMware Fusion
-
-# Testing
-    Unit Testing - Jest
-    Mocha / Chai testing
-    TDD
-    npm
-# Application tier
-    Python
-    Nodejs / Express
-    Node, a backend JS engine uses v8 to execute JS. This enables JS to be run
-outside of a browser and in a Node environment.
-    CORS
+### <em>Benefits</em>
+- Using Docker, you can quickly deploy and scale applications into any environment and know your code will run
+- Running Docker on AWS provides developers and admins a highly reliable, low-cost way to build, ship, and run distributed applications at any scale.
