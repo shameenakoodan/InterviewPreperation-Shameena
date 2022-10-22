@@ -246,60 +246,52 @@ on the screen.
 - Provisioning allows to automatically install software and its dependencies in a virtual environment
   like virtuasl box or vmware
 ### <em>How</em>
-- We have a node application that requires a mongodb connection.
+- Developed a node application that requires a mongodb connection.
 - Created an application environment with node in it and used bash to provision it
 - Created a environemt for mongo and used bash to provision it. And these both are linked
 
 ### <em>Benefits</em>
 - The problem of it works in your system and not mine is solved because applications are run on VM's
 
+## Database 
+## SQL & NoSQL
+### <em>What</em>
+- <b>Structured Query Language</b> is a standardized programming language that is used to manage relational
+  database and perform various CRUD operations on the data in them
+- <b>MySQL </b>is a relational database management system that uses SQL language. All the data is stored in 
+   tables which are related to each other. Every table has rows and columns which are inturn related to each other.
+- <b>NoSQL </b> databases are non-tabular databases and store data in the form of document, key-value, wide-column, or graph.
+- <b>MongoDb </b> is the document based NoSQL database
 
-## OOP
-### <em>What</em>
 ### <em>How</em>
-### <em>Benefits</em>
-##    Webhook
-### <em>What</em>
-### <em>How</em>
-### <em>Benefits</em>
-    React Router
-### <em>What</em>
-### <em>How</em>
-### <em>Benefits</em>
-    React State
-# Tools
-    Terminal
+- Used MySQL to table values for React applications.
+- Used MongoDB when provisioning a Node App to virtual machines. 
 
-    VsCode
-    MySQL Workbench
-    Postman
-    Trello
-    Github
-    Jenkins
-    VMware Fusion
+### <em>Benefits</em>
+- Database is used for persistent storage of values.
+- MySQL is used to store related data like user information.
+- NoSQL is used to store non-related data like documents, key-value, wide-column, or graph
+
+## ORM
+### <em>What</em>
+- Mongoose is an ORM used to connect node to MongoDB
+- Sequelize is and ORM used to connect node to MySQL database
+
+### <em>How</em>
+- Used both the above ORMs for connecting to the database.
+
+### <em>Benefits</em>
+- Productivity
+- Application design
+- Code Reuse
+- Application Maintainability
+
 # Versioning
-    Github
-# Testing
-    Unit Testing - Jest
-    Mocha / Chai testing
-    TDD
-    npm
-# Application tier
-    Python
-    Nodejs / Express
-    Node, a backend JS engine uses v8 to execute JS. This enables JS to be run
-outside of a browser and in a Node environment.
-    CORS
-# Database 
-    SQL & NoSQL
-    MySQL
-    Mongodb
-    Queries
-    ORM
-    Mongoose
-    Sequelize
+- Github is used for version control
+
+
+
 # DevOps
-    CI/CD pipeline
     Docker
     Terraform
     Containerization
@@ -360,3 +352,42 @@ outside of a browser and in a Node environment.
 ### What
 ### How
 ### Benefits
+
+
+
+
+## OOP
+### <em>What</em>
+### <em>How</em>
+### <em>Benefits</em>
+##    Webhook
+### <em>What</em>
+### <em>How</em>
+### <em>Benefits</em>
+    React Router
+### <em>What</em>
+### <em>How</em>
+### <em>Benefits</em>
+    React State
+
+# Tools
+    Terminal
+
+    VsCode
+    MySQL Workbench
+    Postman
+    Trello
+    Github
+    VMware Fusion
+
+# Testing
+    Unit Testing - Jest
+    Mocha / Chai testing
+    TDD
+    npm
+# Application tier
+    Python
+    Nodejs / Express
+    Node, a backend JS engine uses v8 to execute JS. This enables JS to be run
+outside of a browser and in a Node environment.
+    CORS
